@@ -24,6 +24,7 @@
     top: 10px;
 }
 
+
 .one1 {
     background-image: url("3.png");
     height: 100px;
@@ -55,6 +56,10 @@
     color: #fff;
     border: none;
     cursor: pointer;
+}
+.one4>button:hover{
+    background-color: goldenrod;
+    transition-duration: 2s;
 }
 
 .hammadd{
@@ -128,6 +133,11 @@ a {
     color: #fff;
     margin-bottom: 10px;
     border: none;
+}
+
+.zaheer:hover{
+    background-color: goldenrod;
+    cursor: pointer;
 }
 
 /* sectionthrre */
